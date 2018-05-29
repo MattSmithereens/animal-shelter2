@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+.lightTheme {
+  background-color: #AFAFAF;
+  color: black;
+}
+.darkTheme {
+  background-color: #606060;
+  color: white;
+}
+
+h1 {
+  align: center;
+  color: #FF0000;
+}
+
+p.intro {
+  font-style: italic;
+ }
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.column {
+  float: left;
+  /*width: 400px;*/
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
